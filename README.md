@@ -11,7 +11,7 @@
 
 <!-- - 👯 I'm looking to collaborate on [MNNIT IGNOU Portal](https://github.com/bikashsahh/Mini_Project2k24) -->
 
-- 👨‍💻 All of my projects are available at [https://github.com/bikashsahh](https://github.com/codersbliss)
+- 👨‍💻 All of my projects are available at [https://github.com/codersbliss](https://github.com/codersbliss)
 
 - 📫 How to reach me **prateekchandra7005@gmail.com**
 
