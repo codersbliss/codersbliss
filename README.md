@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/blue-futuristic-networking-technology_53876-97395.jpg?t=st=1718012150~exp=1718015750~hmac=36040ff04499a15e27bc4073bff02c7f6d87a7ccdbd2932c6810a66419d8cb40&w=996)](https://rishavchanda.io
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io
 )
 
 <h1 align="center">Hi 👋, I'm prateek chandra</h1>
