@@ -1,7 +1,10 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io
+)
+
 <h1 align="center">Hi 👋, I'm prateek chandra</h1>
 <h3 align="center">A passionate developer from India</h3>
 <br/>
-<img align="right" alt="coding" style="padding: '5px' , margin-top:'10px'" width="500" src="https://img.freepik.com/free-photo/medium-shot-man-wearing-vr-glasses_23-2149126949.jpg?w=2000&t=st=1713458308~exp=1713458908~hmac=0e44eaf9a68565901f3b13f573c0f569ce5bea78dffb8355b1beaf8bff7c0d19">
+<img align="right" alt="coding" style="padding: '5px' , margin-top:'10px'" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codersbliss&label=Profile%20views&color=0e75b6&style=flat" alt="codersbliss" /> </p>
 
