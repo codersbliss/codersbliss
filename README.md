@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif)
+![MasterHead](https://giphy.com/embed/3o6ZsVLQTBtpTQ7bZC" width="480" height="288" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/lol-smiley-morse-code-3o6ZsVLQTBtpTQ7bZC)
 
 <h1 align="center">Hi 👋, I'm Prateek Chandra</h1>
 <h3 align="center">A passionate learner</h3>
