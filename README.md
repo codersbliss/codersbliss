@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **prateekchandra7005@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/codersbliss](https://github.com/codersbliss)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ujY9ZJobMkssHwj3-P9PQpX_SZWfc5ju/view?usp=sharing](https://drive.google.com/file/d/1ujY9ZJobMkssHwj3-P9PQpX_SZWfc5ju/view?usp=sharing)
 
 - ⚡ Fun fact **I don't think I'm funny 😁**
 
