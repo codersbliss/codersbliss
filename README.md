@@ -1,4 +1,4 @@
-![MasterHead](https://giphy.com/embed/3o6ZsVLQTBtpTQ7bZC)
+
 
 <h1 align="center">Hi 👋, I'm Prateek Chandra</h1>
 <h3 align="center">A passionate learner</h3>
