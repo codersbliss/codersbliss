@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **DSA, MONGODB, EXPRESS, REACT, NODEJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/codersbliss](https://github.com/codersbliss)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/codersbliss)
 
 - 📫 How to reach me **prateekchandra7005@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ujY9ZJobMkssHwj3-P9PQpX_SZWfc5ju/view?usp=sharing](https://drive.google.com/file/d/1ujY9ZJobMkssHwj3-P9PQpX_SZWfc5ju/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1ujY9ZJobMkssHwj3-P9PQpX_SZWfc5ju/view?usp=sharing)
 
 - ⚡ Fun fact **I don't think I'm funny 😁**
 
